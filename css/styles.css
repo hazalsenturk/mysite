@@ -46,7 +46,8 @@ hr{
   line-height: 2;
 }
 
-.middlecontainer {}
+.middlecontainer {
+}
 
 .bottom-container {
   margin: 100px auto 0 auto;
@@ -137,4 +138,12 @@ a {
 .copyright{
   color: #EAF6F6;
   margin-bottom: 0;
+}
+.profile{
+  width:60%;
+  margin: 50px auto;  
+}
+.contact-me{
+  width:60%;
+  margin: 50px auto;
 }
